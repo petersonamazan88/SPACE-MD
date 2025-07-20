@@ -16,17 +16,17 @@
 "env": {
   "SESSION_ID": {
     "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-    "value": "",
+    "value": "CYPHER-X:~UEsDBBQAAAgIAC2s9FphQUUCUAQAAGsHAAAKAAAAY3JlZHMuanNvbpVUTZOiSBD9L3XVGAFBhIiOGEBFWlE+1FY35lBCgSVQYFGgOOF*30C7p+ewO9vLqciqyHz53sv8CUiOSzRDDVB*goLiGjLUHllTIKACvYoiREEXhJBBoIJKGxFRcM7adImP+yjqXTa3q64Yi8raagZ2x0UKT8NAIcnuBdy7oKgOKQ7+kNBL3eMUsfPbpR+Is1m8T255*bqx+D3V9JlE0vWC3fhQEgXrBdzbjBBTTOJxcUQZojCdocaBmH4NfjYSL7Lfs5g94r1AIHSUr3hjmBS0swneBMRpgbhWxo6QcV+DPyE4XjJ*N95szx62V*aC25WLebF10sZxTkVn3IznAgw3hvaEX+KYoNAKEWGYNV*mfbBkayHuGa6daOkqDzVTOm03Bgu0BTHj*VU+j8vRoRwqG*FrwOtLZobrjjtwS8lajI7U9Ff6LN0UHhGFNHbr47CfGuFsoq9*B+7QD68k*4f34bLhisGeT0yq5VOYNRW9xj0iVQfHyUXd1pebAz*x5sbY*hp8RNF8MZkfZXnE52STk36nSiSnIkkUFscLnMQHzl*yfomTT*iQVfRPKN90*sybljSop9ar60sJskXeHJ939W2yHygbPqurTs6Redw4XjbYHNhVp0ElDBq*8W43t6e4fdMcjfR6sJ+se9vziXNHl5dHRwlqrBCo*L0LKIpxyShkOCePWL8LYFj7KKCIPdgFAo6GY963XGORbZWlu*SuHp*7EvKCslNdDTHt09PWfq117gV0QUHzAJUlCqe4ZDltbFSWMEYlUP*60QUEXdlTt7Zan++CCNOSrUlVpDkMP0T9uIRBkFeE+Q0JjPaAKFC5zzBiDJO4bGmsCKTBEdfIOEJWAjWCaYl+NYgoCoHKaIV+Da2Rhy3vw9nO0VaSAboge+iBw7ZnQRpI8lCRxYEqfC+*XdqksCi+EcRAF6TPR7I05BVeUnhOkkRBFb638fsveG22EDGI0xKowFj2DkMpN8azqa4EtmlqVqwZsQY+2*mwxZP3tLjw*Kp*K9928iE7Wtvl26q06lEyGZzcS+Tu4NXvKOhw8eyXf0gCVEBsk0yPr0qmrUZyKA+xG3Vm4lwc4YseBRxXG3gn12K1L51zYCdj87beRvJ5F6Wzg+MF62yxvp1I1rO1udjJBKTpl3Z3tNVCVOMA*V5s0TkcmXjFcXP0oyvRmbiNQxbApDjg5O3N2x2kK840pGk9IwgyL0qSgePUnT4SptpwoPHktO7ffKTkE6HRtVMHd5jmPg37GJj0fVHhh5daodrfCKPH3BPYyvdfwj1ht+7i7t3fMrzvkX+ZRX0Pg0W4VobyJFsKUu5PbmkiG*OLpKOcs6ecaZbrut5mw*EK3O8*uqBIIYtymgEVQBLSHIegC2hetXa1SJT*oZihWZb+3ncKS6Z9jsAKZ6hkMCuAystSnxNlgROfrxyaF1NYHlvVs75+aO3caEXhM8g+Bgpo7WenMbj*DVBLAQIUAxQAAAgIAC2s9FphQUUCUAQAAGsHAAAKAAAAAAAAAAAAAACkgQAAAABjcmVkcy5qc29uUEsFBgAAAAABAAEAOAAAAHgEAAAAAA==",
     "required": false
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
-    "value": "254712345678",
+    "value": "2250565789746",
     "required": true
   },
   "GITHUB_USERNAME": {
     "description": "You must set your github username to use the bot unless you're a premium user",
-    "value": "",
+    "value": "𓄂⍣⃝✮༄𑁍𝐏𝐑𝐈𝐍𝐂𝐄𑁍༆🍷",
     "required": false
   },
    "BOT_PASSWORD": {
@@ -46,12 +46,12 @@
   },
    "EXPIRY": {
     "description": "If you purchased a premium membership, enter the expiry date you received here otherwise leave blank",
-    "value": "",
+    "value": "false",
     "required": false
   },
     "ANTI_DELETE": {
     "description": "Antidelete and Antiedit functionality, set true to enable and false to disable. (⚠️ This function consumes a lot of memory + storage, only enable if you have enough resources ⚠️)",
-    "value": "",
+    "value": "false",
     "required": false
   },
     "ADMIN_PASSWORD": {
@@ -61,7 +61,7 @@
   }, 
     "TELEGRAM_BOT_TOKEN": {
     "description": "Enter telegram bot token for interaction with this bot via telegram (optional)",
-    "value": "",
+    "value": "treu",
     "required": false
   }
 },
